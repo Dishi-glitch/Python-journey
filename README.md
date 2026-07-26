@@ -19,7 +19,7 @@ This repository is structured into focused modules covering fundamentals, data m
 - [x] **Python Fundamentals**: Syntax, data types, control structures, and file handling.
 - [x] **Data Manipulation**: Data cleaning, filtering, and aggregation using **Pandas**.
 - [x] **API & LLM Integration**: Interacting with Language Models and REST APIs via Python scripts and notebooks.
-- [x] **Data Visualization**: Charts and plots with `matplotlib` and `seaborn` *(In Progress)*.
+- [x] **Data Visualization**: Charts and plots with `matplotlib` and `seaborn` 
 
 ---
 
