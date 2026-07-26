@@ -9,7 +9,7 @@ Welcome to my Python learning repository! This repo tracks my progress, notes, c
 
 This repository is structured into focused modules covering fundamentals, data manipulation, and working with modern AI/LLM tools:
 
-* **`basics/`**: Core Python concepts, environment setups, and basic LLM integrations.
+* **Basics**: Core Python concepts, environment setups, and basic LLM integrations.
 * **Data Analysis & ML**: Notebooks covering key libraries like `pandas`, `numpy`, and data manipulation techniques.
 
 ---
