@@ -1,7 +1,7 @@
 
 # 🐍 Python Journey
 
-Welcome to my Python learning repository! This repo tracks my progress, notes, code snippets, and hands-on projects as I navigate through Python programming, Data Analysis, and Machine Learning concepts.
+Welcome to my Python learning repository! This repo tracks my progress, notes, code snippets, as I navigate through Python programming and Data Analysis.
 
 ---
 
